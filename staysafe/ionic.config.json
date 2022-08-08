@@ -1,0 +1,7 @@
+{
+  "name": "staysafe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
